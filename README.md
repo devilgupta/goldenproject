@@ -1,1 +1,2 @@
-# goldenproject
+# GoldenProject
+Golden Project: Hungry Chap
